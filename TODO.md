@@ -1,0 +1,3 @@
+- Install dune and create a hello-world program: https://ocaml.org/docs/your-first-program
+- Ensure eval $(opam env) is loaded in `vscode` shell sessions etc - could also possibly copy it manually to the dockerfile
+- Install VS Code extensions
