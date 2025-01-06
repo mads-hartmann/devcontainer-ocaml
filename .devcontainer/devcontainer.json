@@ -1,0 +1,7 @@
+{
+	"name": "OCaml",
+	"build": {
+        "context": ".",
+        "dockerfile": "Dockerfile"
+    }
+}
